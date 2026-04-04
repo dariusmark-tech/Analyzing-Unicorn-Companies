@@ -1,4 +1,4 @@
-# 🦄 Unicorn Companies — Industry Trend Analysis
+# Unicorn Companies — Industry Trend Analysis
 
 > A SQL + Python data analysis project exploring high-growth unicorn companies to identify the best-performing industries for investment insights.
 

@@ -140,7 +140,7 @@ df
 
 ---
 
-## 📊 Expected Output Format
+## Expected Output Format
 
 | industry | year | num_unicorns | average_valuation_billions |
 |---|---|---|---|

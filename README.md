@@ -58,7 +58,7 @@ The project uses a PostgreSQL database called `unicorns` with the following tabl
 
 ---
 
-## 💻 Solution
+## Solution
 
 ### Cell 1 — SQL Query (stored as DataFrame `df`)
 

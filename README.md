@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as part of a DataCamp data analysis challenge. The goal was to support an investment firm by analyzing trends in high-growth companies — specifically identifying which industries are producing the most unicorns and the highest valuations.
 

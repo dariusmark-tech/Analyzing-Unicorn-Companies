@@ -46,7 +46,7 @@ The project uses a PostgreSQL database called `unicorns` with the following tabl
 
 ---
 
-## 🎯 Objective
+## Objective
 
 1. Identify the **top 3 best-performing industries** by number of new unicorns created in **2019, 2020, and 2021 combined**
 2. For those industries, return:

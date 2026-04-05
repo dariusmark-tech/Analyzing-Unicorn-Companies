@@ -10,7 +10,7 @@ This project was completed as part of a DataCamp data analysis challenge. The go
 
 ---
 
-## 🗃️ Database Schema
+## Database Schema
 
 The project uses a PostgreSQL database called `unicorns` with the following tables:
 
